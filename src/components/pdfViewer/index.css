@@ -1,0 +1,11 @@
+/* PdfViewer.css */
+
+.pdf-page-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.pdf-page-half {
+  width: 45%;
+}
